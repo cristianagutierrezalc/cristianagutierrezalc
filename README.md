@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="Cristian Gutiérrez · Ingeniero de Sistemas"/>
+<img src="assets/banner.svg" width="100%" alt="Cristian Gutiérrez · Ingeniero de Sistemas"/>
 
 <br>
 
@@ -335,8 +335,4 @@ Si quieres conocer mis proyectos, colaborar en una solución digital o hablar so
 
 <br>
 
-<div align="center">
-
-**Ingeniería · Desarrollo · Datos · Diseño**
-
-</div>
+<img src="assets/onda.svg" width="100%" alt="Ingeniería · Desarrollo · Datos · Diseño"/>

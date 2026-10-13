@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" width="1200" height="72"
+     role="img" aria-label="Ingenieria, desarrollo, datos y diseno">
+  <defs>
+    <linearGradient id="pie" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="48%" stop-color="#0F172A">
+        <animate attributeName="stop-color" values="#0F172A;#111E36;#0F172A"
+                 dur="16s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0C4A6E"/>
+    </linearGradient>
+
+    <linearGradient id="brillo" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+      <animate attributeName="x1" values="0;1200" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1200;2400" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#pie)"
+        d="M0,26 C200,58 400,4 600,26 C800,48 1000,-4 1200,26 L1200,72 L0,72 Z">
+    <animate attributeName="d" dur="15s" repeatCount="indefinite"
+             values="M0,26 C200,58 400,4 600,26 C800,48 1000,-4 1200,26 L1200,72 L0,72 Z;
+                     M0,26 C200,4 400,58 600,26 C800,-4 1000,48 1200,26 L1200,72 L0,72 Z;
+                     M0,26 C200,58 400,4 600,26 C800,48 1000,-4 1200,26 L1200,72 L0,72 Z"/>
+  </path>
+
+  <path fill="url(#brillo)" opacity="0.5"
+        d="M0,26 C200,58 400,4 600,26 C800,48 1000,-4 1200,26 L1200,32 L0,32 Z"/>
+
+  <text x="600" y="58" text-anchor="middle" fill="#E2E8F0"
+        font-family="'Segoe UI',Inter,system-ui,sans-serif"
+        font-size="17" font-weight="600" letter-spacing="2.5">
+    INGENIERÍA · DESARROLLO · DATOS · DISEÑO
+  </text>
+</svg>
