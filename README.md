@@ -1,65 +1,49 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0B1120,75:0F172A,100:075985&text=CRISTIAN%20GUTIERREZ&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=INGENIERO%20DE%20SISTEMAS%20%7C%20DESARROLLO%20WEB%20%7C%20BACKEND%20%7C%20UX%2FUI&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img src="assets/banner.jpg" width="100%" alt="Cristian Gutiérrez · Ingeniero de Sistemas"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=Ingeniero+de+Sistemas.;Construyendo+soluciones+digitales.;Desarrollo+Web+%7C+Backend+%7C+Datos+%7C+UX%2FUI.;Dise%C3%B1ando%2C+desarrollando+y+mejorando." />
+Soy **Ingeniero de Sistemas**. Construyo productos digitales completos: interfaz, lógica de negocio y base de datos, con criterios de **UX/UI**.
 
-<br><br>
+<br>
 
-<a href="https://github.com/cristianagutierrezalc">
-<img src="https://img.shields.io/badge/GITHUB-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="mailto:cristianagutierrez@unicesar.edu.co">
-<img src="https://img.shields.io/badge/CORREO-0B1120?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/Andressdev.ofic/">
-<img src="https://img.shields.io/badge/ANDRESSDEV-0B1120?style=for-the-badge&logo=instagram&logoColor=38BDF8"/>
-</a>
+<a href="https://github.com/cristianagutierrezalc"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white&label=Github"/></a>&nbsp;<a href="mailto:cristianagutierrez@unicesar.edu.co"><img src="https://img.shields.io/badge/Correo-111827?style=flat-square&logo=gmail&logoColor=38BDF8&label=Correo"/></a>&nbsp;<a href="https://www.instagram.com/Andressdev.ofic/"><img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=E1306C&label=Andressdev.ofic"/></a>
 
 </div>
 
----
-
-# SOBRE MÍ
-
-Soy **Ingeniero de Sistemas** enfocado en el desarrollo de soluciones digitales, con especial interés en **desarrollo web, backend, bases de datos y diseño de experiencias**.
-
-Me interesa transformar necesidades reales en productos digitales funcionales, intuitivos y escalables, combinando desarrollo de software con criterios de **UX/UI**.
-
-Actualmente trabajo en proyectos propios y soluciones orientadas a escenarios reales: plataformas multi-sede, sistemas de gestión, productos digitales para negocios y herramientas internas con base de datos.
+<br>
 
 ---
 
-# PERFIL PROFESIONAL
+## Sobre mí
+
+Me interesa convertir necesidades reales en productos digitales que funcionen de verdad: claros para el usuario y Sostenibles en el tiempo. Trabajo con **desarrollo de escritorio y web, backend, bases de datos y diseño de interfaces**, normalmente cubro un proyecto completo, de la interfaz a la consulta SQL.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### DESARROLLO
+### Lo que construyo
 
 * Aplicaciones de escritorio y web
 * Interfaces y diseño de producto
 * Frontend y backend
 * Integración de servicios
-* Diseño de soluciones escalables
-* Construcción de herramientas digitales
+* Herramientas internas con base de datos
+* Sistemas multi-sede
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### ENFOQUE
+### En lo que me enfoco
 
 * Experiencia de usuario
 * Arquitectura de aplicaciones
-* Sistemas multi-sede
-* Modelado de datos
+* Modelado de datos y RLS
 * Seguridad y control de acceso
-* Soluciones orientadas a negocios
+* Soluciones que escalar con el tiempo
+* Calidad: pruebas y documentación
 
 </td>
 </tr>
@@ -67,54 +51,63 @@ Actualmente trabajo en proyectos propios y soluciones orientadas a escenarios re
 
 ---
 
-# TECNOLOGÍAS
+## Tecnologías
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,postgres,supabase,html,css,fastapi,flask,firebase,maven,git&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,postgres,supabase,html,css,fastapi,flask,firebase,maven,git&perline=7" alt="Tecnologías"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-17-111827?style=flat-square&logo=openjdk&logoColor=ED8B00&label=Java"/>
+<img src="https://img.shields.io/badge/JavaFX-21-111827?style=flat-square&logo=java&logoColor=ED8B00&label=JavaFX"/>
+<img src="https://img.shields.io/badge/Maven-111827?style=flat-square&logo=apachemaven&logoColor=C71A36&label=Maven"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1&label=PostgreSQL"/>
+<img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FCF8E&label=Supabase"/>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB&label=Python"/>
+<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688&label=FastAPI"/>
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E&label=Node.js"/>
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB&label=React"/>
+<img src="https://img.shields.io/badge/PL%2FpgSQL-111827?style=flat-square&logo=postgresql&logoColor=336791&label=PL%2FpgSQL"/>
 
 </div>
 
-<br>
+---
+
+## Proyectos
+
+### 01 · GastroConnect
+
+**Sistema de gestión de restaurantes multi-sede** · JavaFX + PostgreSQL
+
+<img src="assets/pedidos-web.png" width="100%" alt="GastroConnect · Order Hub"/>
+
+*Centro de pedidos web: aceptar, preparar y despachar los pedidos de todas las sedes en tiempo real.*
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td align="center" width="50%" valign="top">
 
-**ESCRITURA**
+**Cupones y promociones**
 
-Java · Python · JavaScript · TypeScript · SQL · PL/pgSQL
+<img src="assets/cupones.png" width="100%" alt="Módulo de cupones"/>
 
-</td>
-<td valign="top" width="33%">
-
-**APLICACIONES**
-
-JavaFX · FastAPI · Flask · Node.js · Tkinter
+Descuento, compra mínima y usos por cliente, respetados en el total del pedido.
 
 </td>
-<td valign="top" width="34%">
+<td align="center" width="50%" valign="top">
 
-**DATOS E INFRAESTRUCTURA**
+**Acceso y seguridad**
 
-PostgreSQL · Supabase · Firebase · Maven · Git · GitHub
+<img src="assets/inicio-sesion.png" width="100%" alt="Inicio de sesión"/>
+
+Inicio de sesión con roles, credenciales cifradas y sesión por sede.
 
 </td>
 </tr>
 </table>
 
----
-
-# PROYECTOS DESTACADOS
-
-## 01 — GASTROCONNECT
-
-**Sistema de gestión de restaurantes multi-sede**
-**Estado:** En desarrollo activo · **Repositorios privados**
-
-Plataforma de escritorio e integración de datos para un grupo gastronómico con varios puntos de venta. Cubre el ciclo completo: catálogo, inventario por sede, pedidos, facturación, cupones y reportes.
-
-**Lo que tiene hoy:**
+**Qué cubre hoy**
 
 <table>
 <tr>
@@ -125,21 +118,23 @@ Plataforma de escritorio e integración de datos para un grupo gastronómico con
 * Java 17 + JavaFX 21, modular, con Maven
 * Interfaz en FXML y CSS, rediseñada desde Figma
 * Módulos: catálogo, inventario, pedidos, sedes,
-  facturación y configuración de API por sede
-* Empaquetado con `jpackage` en un instalador de
-  Windows que no requiere Java instalado
+  cupones, facturación y API por sede
+* Empaquetado con `jpackage`: instalador de Windows
+  que no requiere Java instalado
+* Tema claro y oscuro
 
 </td>
 <td valign="top" width="50%">
 
 **BASE DE DATOS**
 
-* PostgreSQL en Supabase: 21 tablas
+* PostgreSQL en Supabase: 21 tablas, 10 vistas
+  y una vista materializada de ventas diarias
 * Aislamiento por tenant y por sede con RLS
 * La lógica de cálculo vive en la base: totales,
   folios correlativos, descuento de stock y cupones
-* Reportes precalculados con vista materializada
-* 168 pruebas end-to-end y respaldo verificado
+* 39 funciones de negocio y 74 políticas RLS
+* 168 pruebas end-to-end sobre la base real
 
 </td>
 </tr>
@@ -149,27 +144,27 @@ Plataforma de escritorio e integración de datos para un grupo gastronómico con
 
 ---
 
-## 02 — MENÚ DIGITAL · FUEGO & CARBÓN
+### 02 · Menú digital · Fuego & Carbón
 
-**Estado:** Publicado · [Repositorio](https://github.com/cristianagutierrezalc/pagdemodev) · [API](https://github.com/cristianagutierrezalc/backend-fuego-carbon)
+**Publicado** · [Repositorio](https://github.com/cristianagutierrezalc/pagdemodev) · [API](https://github.com/cristianagutierrezalc/backend-fuego-carbon)
 
-Menú digital para restaurante con frontend y API separados. El backend en FastAPI expone el catálogo completo y quedó como **única fuente de verdad**: antes el frontend mantenía su propia copia del catálogo y se desincronizaba.
+Menú digital para restaurante con frontend y API separados. El backend en FastAPI quedó como **única fuente de verdad**: antes el frontend mantenía su propia copia del catálogo y se desincronizaba.
 
 **Stack:** Python · FastAPI · HTML · CSS · JavaScript
 
 ---
 
-## 03 — WEB COTIZADOR DEV
+### 03 · Web Cotizador Dev
 
-**Estado:** Publicado · [Repositorio](https://github.com/cristianagutierrezalc/Web-Cotizador-Dev)
+**Publicado** · [Repositorio](https://github.com/cristianagutierrezalc/Web-Cotizador-Dev)
 
-Herramienta web para que un agencia o desarrollador comparta un enlace con sus clientes y ellos mismos calculen una estimación de inversión para su proyecto, en pesos colombianos.
+Herramienta web para que una agencia o un desarrollador comparta un enlace con sus clientes y ellos mismos calculen una estimación de inversión, en pesos colombianos.
 
 **Stack:** HTML · CSS · JavaScript
 
 ---
 
-## 04 — SISTEMA PITA
+### 04 · Sistema PITA
 
 **Proyecto académico** · [Repositorio](https://github.com/cristianagutierrezalc/Pita-Project)
 
@@ -179,7 +174,7 @@ Programa Integrado de Transacciones Académicas, taller de Estructura de Datos. 
 
 ---
 
-## 05 — OTROS PROYECTOS
+### 05 · Otros proyectos
 
 <table>
 <tr>
@@ -208,9 +203,9 @@ Versión inicial del menú digital con API y frontend.
 </td>
 <td valign="top" width="50%">
 
-**[cristianagutierrezalc](https://github.com/cristianagutierrezalc)**
+**[Este perfil](https://github.com/cristianagutierrezalc/cristianagutierrezalc)**
 
-Este perfil, con los repositorios públicos y privados del proyecto.
+Repositorios públicos y privados del proyecto.
 
 </td>
 </tr>
@@ -218,9 +213,9 @@ Este perfil, con los repositorios públicos y privados del proyecto.
 
 ---
 
-# FORMACIÓN Y APRENDIZAJE CONTINUO
+## Formación
 
-Aunque mi formación principal es la **Ingeniería de Sistemas**, mantengo un proceso constante de actualización en áreas relacionadas con tecnología y desarrollo de software.
+Mi formación principal es la **Ingeniería de Sistemas**, y mantengo un proceso constante de actualización en áreas relacionadas con tecnología y desarrollo de software.
 
 <table>
 <tr>
@@ -243,111 +238,66 @@ Aunque mi formación principal es la **Ingeniería de Sistemas**, mantengo un pr
 </tr>
 </table>
 
-Mi objetivo es complementar el desarrollo de software con conocimientos sólidos en **datos, seguridad y arquitectura tecnológica**.
+El objetivo es complementar el desarrollo de software con conocimientos sólidos en **datos, seguridad y arquitectura tecnológica**.
 
 ---
 
-# METODOLOGÍA DE DESARROLLO
+## Cómo trabajo
 
-Mi enfoque parte de comprender el problema antes de escribir código.
+Entender el problema antes de escribir código. Ese es el orden en el que avanza cada proyecto:
 
 <table>
 <tr>
-<td align="center">
-
-**01 · IDEA**
-
-</td>
-<td align="center">
-
-**02 · ANÁLISIS**
-
-</td>
-<td align="center">
-
-**03 · REQUERIMIENTOS**
-
-</td>
-<td align="center">
-
-**04 · UX / UI**
-
-</td>
-<td align="center">
-
-**05 · ARQUITECTURA**
-
-</td>
+<td align="center">Idea</td>
+<td align="center">→</td>
+<td align="center">Análisis</td>
+<td align="center">→</td>
+<td align="center">Requerimientos</td>
 </tr>
 <tr>
-<td align="center">
-
-**06 · DESARROLLO**
-
-</td>
-<td align="center">
-
-**07 · PRUEBAS**
-
-</td>
-<td align="center">
-
-**08 · DOCUMENTACIÓN**
-
-</td>
-<td align="center">
-
-**09 · MEJORA**
-
-</td>
-<td align="center">
-
-**10 · ITERACIÓN**
-
-</td>
+<td align="center">UX / UI</td>
+<td align="center">→</td>
+<td align="center">Arquitectura</td>
+<td align="center">→</td>
+<td align="center">Desarrollo</td>
+</tr>
+<tr>
+<td align="center">Pruebas</td>
+<td align="center">→</td>
+<td align="center">Documentación</td>
+<td align="center">→</td>
+<td align="center">Mejora</td>
 </tr>
 </table>
 
-La prioridad es construir soluciones que no solamente funcionen, sino que sean **claras, mantenibles y preparadas para evolucionar**.
-
----
-
-# PRINCIPIOS DE DESARROLLO
+La prioridad es construir soluciones que no solo funcionen, sino que sean **claras, mantenibles y preparadas para evolucionar**.
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-**01**
-
-### CLARIDAD
+### Claridad
 
 Código y estructuras fáciles de comprender.
 
 </td>
 <td align="center" width="25%">
 
-**02**
-
-### ESCALABILIDAD
+### Escalabilidad
 
 Soluciones preparadas para crecer.
 
 </td>
 <td align="center" width="25%">
 
-**03**
-
-### EXPERIENCIA
+### Experiencia
 
 Interfaces pensadas desde el usuario.
 
 </td>
 <td align="center" width="25%">
 
-**04**
-
-### EVOLUCIÓN
+### Evolución
 
 Mejora continua de cada solución.
 
@@ -357,43 +307,29 @@ Mejora continua de cada solución.
 
 ---
 
-# ACTIVIDAD EN GITHUB
+## Actividad en GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cristianagutierrezalc&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cristianagutierrezalc&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianagutierrezalc&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianagutierrezalc&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&langs_count=8" alt="Lenguajes más usados"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=cristianagutierrezalc&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"/>
+<img src="https://streak-stats.demolab.com?user=cristianagutierrezalc&hide_border=true&background=0F172A&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" alt="Racha de contribuciones"/>
 
 </div>
 
 ---
 
-# CONECTEMOS
+## Conectemos
 
 Si quieres conocer mis proyectos, colaborar en una solución digital o hablar sobre desarrollo de software:
 
 <div align="center">
 
-<a href="mailto:cristianagutierrez@unicesar.edu.co">
-<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.instagram.com/Andressdev.ofic/">
-<img src="https://img.shields.io/badge/ANDRESSDEV.OFIC-020617?style=for-the-badge&logo=instagram&logoColor=38BDF8"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/cristianagutierrezalc">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+<a href="mailto:cristianagutierrez@unicesar.edu.co"><img src="https://img.shields.io/badge/cristianagutierrez%40unicesar.edu.co-111827?style=flat-square&logo=gmail&logoColor=38BDF8&label=Correo"/></a>&nbsp;<a href="https://www.instagram.com/Andressdev.ofic/"><img src="https://img.shields.io/badge/@Andressdev.ofic-111827?style=flat-square&logo=instagram&logoColor=E1306C&label=Instagram"/></a>&nbsp;<a href="https://github.com/cristianagutierrezalc"><img src="https://img.shields.io/badge/cristianagutierrezalc-111827?style=flat-square&logo=github&logoColor=white&label=Github"/></a>
 
 </div>
 
@@ -401,13 +337,6 @@ Si quieres conocer mis proyectos, colaborar en una solución digital o hablar so
 
 <div align="center">
 
-### INGENIERÍA & DESARROLLO & DISEÑO & EVOLUCIÓN
+**Ingeniería · Desarrollo · Datos · Diseño**
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:075985,50:0F172A,100:020617&animation=fadeIn"/>
-
-<!--
-Diseñado y desarrollado por Cristian Gutiérrez.
-Ingeniero de Sistemas | Desarrollo Web | Backend | Datos | UX/UI
--->
